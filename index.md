@@ -7,6 +7,26 @@ This is a place where I maintain the inventory of all of the tools, utilities, a
 
 ### CLI Tools
 
+* **`htop`**: A better `top` (https://github.com/hishamhm/htop)
+    * Installation
+        * MacOS: `brew install htop`
+        * Arch: `pacman -Sy htop`
+
+* **`ag`**: The Silver Searcher (https://github.com/ggreer/the_silver_searcher)
+    * Installation
+        * MacOS: `brew install ag`
+
+* **`yay`**: AUR client for Arch Linux (https://github.com/Jguer/yay)
+    * Installation
+        * Arch:
+            ```bash
+            git clone https://aur.archlinux.org/yay.git
+            cd yay
+            makepkg -si
+            ```
+
+* **`inxi`**: System information utility (https://github.com/smxi/inxi)
+
 ### GUI Tools
 
 ### Novelties
