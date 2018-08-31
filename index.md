@@ -1,4 +1,4 @@
-## michaeljsmalley/arsenal
+## What's `arsenal` about?
 
 This is a place where I maintain the inventory of all of the tools, utilities, and even gimmicky binaries I've stumbled upon and used to some extent over the years. It serves two purposes:
 
