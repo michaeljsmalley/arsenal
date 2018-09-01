@@ -7,22 +7,25 @@ This is a place where I maintain the inventory of all of the tools, utilities, a
 
 I primarily use MacOS at work, and Arch Linux at home, so installation instructions for those platforms are documented here, but most of these tools are available on other platforms.
 
-| Name  	                                                      | Description  	           | MacOS Install  	      | Arch Install                                                              | Notes        |
-|--:                                                                  |--:	                   |--:	                      |--:	                                                                  |--:	         |
-| **[htop](https://github.com/hishamhm/htop)**  	              | A better `top`.  	   | ```brew install htop```  | ```pacman -S --noconfirm htop```                                          |              |
-| **[ag](https://github.com/ggreer/the_silver_searcher)**  	      | The Silver Searcher        | ```brew install ag```    |                                                                           |              |
-| **[yay](https://github.com/Jguer/yay)**                             | AUR client for Arch Linux. |                          |`git clone https://aur.archlinux.org/yay.git`<br>`cd yay`<br>`makepkg -si` |              |
-
 ### CLI Tools
 
 * **[htop](https://github.com/hishamhm/htop)**: A better `top`.
     * Installation
-        * MacOS: `brew install htop`
-        * Arch: `pacman -S --noconfirm htop`
+        * MacOS: 
+            ```bash
+            brew install htop
+            ```
+        * Arch: 
+            ```bash
+            pacman -S --noconfirm htop
+            ```
 
 * **[ag](https://github.com/ggreer/the_silver_searcher)**: The Silver Searcher.
     * Installation
-        * MacOS: `brew install ag`
+        * MacOS:
+            ```bash
+            brew install ag
+            ```
 
 * **[yay](https://github.com/Jguer/yay)**: AUR client for Arch Linux.
     * Installation
@@ -37,30 +40,55 @@ I primarily use MacOS at work, and Arch Linux at home, so installation instructi
 
 * **[bat](https://github.com/sharkdp/bat)**: Better than `cat` 
     * Installation
-        * MacOS: `brew install bat`
-        * Arch: `pacman -S --noconfirm bat`
+        * MacOS:
+            ```bash
+            brew install bat
+            ```
+        * Arch:
+            ```bash
+            pacman -S --noconfirm bat
+            ```
 
 * **[prettyping](https://github.com/denilsonsa/prettyping)**: `ping` with a text-based response graph.
     * Installation
-        * MacOS: `brew install prettyping`
+        * MacOS:
+            ```bash
+            brew install prettyping
+            ```
 
 * **[jq](https://stedolan.github.io/jq/)**: JSON processor.
     * Installation
-        * MacOS: `brew install jq`
-        * Arch: `pacman -S --noconfirm jq`
+        * MacOS:
+            ```bash
+            brew install jq
+            ```
+        * Arch:
+            ```bash
+            pacman -S --noconfirm jq
+            ```
 
 * **[tldr](https://tldr.sh/)**: Simple and community driven `man` pages.
     * Installation
-        * MacOS (Note: Requires `npm`, and `-g` means it installs globally): `npm install -g tldr`
+        * MacOS (Note: Requires `npm`, and `-g` means it installs globally):
+            ```bash
+            npm install -g tldr
+            ```
 
 * **[neofetch](https://github.com/dylanaraps/neofetch)**: System information utility.
     * Installation
-        * MacOS: `brew install neofetch`
-        * Arch: `pacman -S --noconfirm neofetch`
+        * MacOS:
+            ```bash
+            brew install neofetch
+            ```
+        * Arch:
+            ```bash
+            pacman -S --noconfirm neofetch
+            ```
 
 ### GUI Tools
 
 * **[Bear](http://www.bear-writer.com/)**: Markdown-based note taking app for MacOS
+
 ### Novelties
 
 * 
