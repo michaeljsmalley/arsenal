@@ -7,6 +7,12 @@ This is a place where I maintain the inventory of all of the tools, utilities, a
 
 I primarily use MacOS at work, and Arch Linux at home, so installation instructions for those platforms are documented here, but most of these tools are available on other platforms.
 
+| Name  	                                                      | Description  	           | MacOS Install  	      | Arch Install                                                              | Notes        |
+|--:                                                                  |--:	                   |--:	                      |--:	                                                                  |--:	         |
+| **[htop](https://github.com/hishamhm/htop)**  	              | A better `top`.  	   | ```brew install htop```  | ```pacman -S --noconfirm htop```                                          |              |
+| **[ag](https://github.com/ggreer/the_silver_searcher)**  	      | The Silver Searcher        | ```brew install ag```    |                                                                           |              |
+| **[yay](https://github.com/Jguer/yay)**                             | AUR client for Arch Linux. |                          |`git clone https://aur.archlinux.org/yay.git`<br>`cd yay`<br>`makepkg -si` |              |
+
 ### CLI Tools
 
 * **[htop](https://github.com/hishamhm/htop)**: A better `top`.
