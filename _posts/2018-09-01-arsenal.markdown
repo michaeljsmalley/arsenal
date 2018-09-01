@@ -5,7 +5,7 @@ layout: single
 classes: wide
 title: "What's Arsenal about?"
 date:   2018-08-31 01:52:27 -0400
-categories: jekyll update
+categories: cli arsenal tools utilities
 author_profile: true
 ---
 
