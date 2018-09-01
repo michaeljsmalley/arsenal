@@ -20,7 +20,7 @@ title                    : "Arsenal"
 title_separator          : "-"
 name                     : "michaeljsmalley"
 description              : "The bag of tricks."
-url                      : "https://github.com/michaeljsmalley" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://michaeljsmalley.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/arsenal" # the subpath of your site, e.g. "/blog"
 repository               : "michaeljsmalley/arsenal" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "https://vintagerecipecards.files.wordpress.com/2011/05/perfection_salad.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/michaeljsmalley"
+  github           : "michaeljsmalley"
   gitlab           :
   google_plus      :
   keybase          :
