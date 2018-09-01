@@ -9,16 +9,16 @@ I primarily use MacOS at work, and Arch Linux at home, so installation instructi
 
 ### CLI Tools
 
-* **`htop`**: A better `top` (https://github.com/hishamhm/htop)
+* **[htop](https://github.com/hishamhm/htop)**: A better `top`.
     * Installation
         * MacOS: `brew install htop`
-        * Arch: `pacman -Sy htop`
+        * Arch: `pacman -S --noconfirm htop`
 
-* **`ag`**: The Silver Searcher (https://github.com/ggreer/the_silver_searcher)
+* **[ag](https://github.com/ggreer/the_silver_searcher)**: The Silver Searcher.
     * Installation
         * MacOS: `brew install ag`
 
-* **`yay`**: AUR client for Arch Linux (https://github.com/Jguer/yay)
+* **[yay](https://github.com/Jguer/yay)**: AUR client for Arch Linux.
     * Installation
         * Arch:
             ```bash
@@ -27,30 +27,34 @@ I primarily use MacOS at work, and Arch Linux at home, so installation instructi
             makepkg -si
             ```
 
-* **`inxi`**: System information utility (https://github.com/smxi/inxi)
+* **[inxi](https://github.com/smxi/inxi)**: System information utility.
 
-* **`bat`**: Better than `cat` (https://github.com/sharkdp/bat)
+* **[bat](https://github.com/sharkdp/bat)**: Better than `cat` 
     * Installation
         * MacOS: `brew install bat`
-        * Arch: `pacman -Sy bat`
+        * Arch: `pacman -S --noconfirm bat`
 
-* **`prettyping`**: `ping` with a text-based response graph (https://github.com/denilsonsa/prettyping)
+* **[prettyping](https://github.com/denilsonsa/prettyping)**: `ping` with a text-based response graph.
     * Installation
         * MacOS: `brew install prettyping`
 
-* **`jq`**: JSON processor (https://stedolan.github.io/jq/)
+* **[jq](https://stedolan.github.io/jq/)**: JSON processor.
     * Installation
         * MacOS: `brew install jq`
-        * Arch: `pacman -Sy jq`
+        * Arch: `pacman -S --noconfirm jq`
 
-* **`tldr`**: Simple and community driven `man` pages (https://tldr.sh/)
+* **[tldr](https://tldr.sh/)**: Simple and community driven `man` pages.
     * Installation
         * MacOS (Note: Requires `npm`, and `-g` means it installs globally): `npm install -g tldr`
 
+* **[neofetch](https://github.com/dylanaraps/neofetch)**: System information utility.
+    * Installation
+        * MacOS: `brew install neofetch`
+        * Arch: `pacman -S --noconfirm neofetch`
+
 ### GUI Tools
 
-* **Bear**: Markdown-based note taking app for MacOS (http://www.bear-writer.com/)
-
+* **[Bear](http://www.bear-writer.com/)**: Markdown-based note taking app for MacOS
 ### Novelties
 
 * 
