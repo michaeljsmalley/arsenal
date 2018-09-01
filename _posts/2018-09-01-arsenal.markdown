@@ -1,8 +1,12 @@
 ---
-layout: post
+read_time: true
+toc: true
+layout: single
+classes: wide
 title: "What's Arsenal about?"
-date:   2018-09-01 01:52:27 -0400
+date:   2018-08-31 01:52:27 -0400
 categories: jekyll update
+author_profile: true
 ---
 
 ## What's Arsenal about?
@@ -19,9 +23,12 @@ I primarily use MacOS at work, and Arch Linux at home, so installation instructi
 * **[htop](https://github.com/hishamhm/htop)**: A better `top`.
     * Installation
         * MacOS: 
+
             ```bash
             brew install htop
             ```
+
+
         * Arch: 
             ```bash
             pacman -S --noconfirm htop
